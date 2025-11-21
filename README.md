@@ -36,14 +36,20 @@ Collaboration | Presentation | Creative Projects
 
 ## 🏆 Experience & Involvement
 
-- Junior Teaching Assistant, Nile University
-- ITCS Representative Team, Nile University
-- Python Programming Intern, CodeAlpha
-- Technical HR Leader, MLSA (Microsoft Learning Student Ambassadors)
-- Vice Head of HR, IEEE Nile University
-- Multimedia/Event Tech, Climatic Peace Foundation
-- Volunteer Student, Lebaladna Foundation
-- Event Organization, E-Gnite & Others
+•	Junior Teaching Assistant at Nile University
+•	ITCS Representative Team at Nile University
+•	Volunteer Student at Lebaladna Charity and Development Foundation
+•	Member at Robotics "Arduino" Course
+•	Human Resources Team Member at Enactus Nile University 
+•	Python Programming Internship at CodeAlpha
+•	Junior Research Assistant at Nile University 
+•	Technical Human Resources Leader at MLSA “Microsoft Learning Students Ambassadors “ 
+•	Vice Head of Human Resources at IEEE Nile University 
+•	Event Organization Team Member – E-Gnite
+•	Multimedia & Technical Support – Event Team Member at Climatic Peace Foundation
+•	Al Ambassdor Program Graduate with National Telecommunication Institute (NTI)
+•	Event Coordination Team Member | NILES & SMART 2025 
+•	Event Management Team Leader with Local Conferences of Youth “LCOY Egypt”
 
 ---
 
