@@ -1,9 +1,6 @@
 <!-- Profile README for Mostafa Abd Elhamied Ismael -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=A020F0&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Mostafa+Abd+Elhamied;Computer+Science+Student;Aspiring+Data+Analyst" />
-</h1>
-
+<h1 align="center">Hi there 👋, I'm Mostafa Abd Elhamied</h1>
 <h3 align="center">Aspiring Computer Science | Junior Developer | Tech & Community Enthusiast</h3>
 
 ## 👨‍💻 About Me
