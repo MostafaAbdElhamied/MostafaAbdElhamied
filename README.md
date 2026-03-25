@@ -1,138 +1,122 @@
-# [cite_start]💻 Mostafa Abd Elhamied Ismael [cite: 1]
+# 💻 Mostafa Abd Elhamied
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Junior+Teaching+Assistant;Vice+Head+HR+@+IEEE;Software+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+%26+Arduino+Enthusiast;Computer+Science+Student;Junior+Teaching+Assistant;Future+AI+Instructor" />
 </p>
 
 <p align="center">
-  [cite_start]<a href="https://www.linkedin.com/in/mostafa-abd-elhamied-4a88782a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> [cite: 5]
-  [cite_start]<a href="mailto:mostafabazid65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> [cite: 4]
-  [cite_start]<a href="https://github.com/MostafaAbdElhamied"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> [cite: 6]
+  <a href="https://www.linkedin.com/in/mostafa-abd-elhamied-4a88782a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mostafabazid65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/MostafaAbdElhamied"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-[cite_start]A dedicated undergraduate student pursuing a degree in Computer Science at Nile University, eager to secure a position as a Junior[cite: 8]. [cite_start]I am highly motivated to leverage my skills and knowledge in real-world applications while gaining hands-on experience[cite: 9]. [cite_start]I am committed to contributing to meaningful projects and developing expertise across various fields to build a strong foundation for future success[cite: 10].
+Computer Science student at Nile University with a strong passion for **Artificial Intelligence, Embedded Systems, and Software Engineering**. I specialize in building real-world projects that combine hardware and software systems, with a focus on problem-solving, system design, and scalability.  
 
-- [cite_start]🎓 **Education:** Bachelor of Science in Computer Science, Nile University (Expected Graduation: 2027) [cite: 12, 13]
-- [cite_start]📍 **Location:** El Haram, Giza, Egypt [cite: 2]
-- [cite_start]🧠 **Interests:** Software Engineering, Data Analysis, Web Development, Hardware Prototyping, and Human Resources [cite: 19, 20, 23, 47]
+Alongside my technical work, I actively contribute as a **Junior Teaching Assistant**, mentoring students and simplifying complex concepts in programming and algorithms.
+
+- 🎓 B.Sc. Computer Science (2023–2027)  
+- 📍 Giza, Egypt  
+- 🎯 Career Goal: Become an **AI & Arduino Instructor**  
+- 🧠 Interests: AI Systems, Algorithms, Embedded Systems, Smart Automation  
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages & Fundamentals
-<p>
-  [cite_start]<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> [cite: 19]
-  [cite_start]<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> [cite: 19]
-  [cite_start]<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> [cite: 19]
-  [cite_start]<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> [cite: 19]
-  [cite_start]<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> [cite: 19]
-  [cite_start]<img src="https://img.shields.io/badge/OOP-0078D4?style=for-the-badge&logo=object-oriented-programming&logoColor=white" /> [cite: 19]
-</p>
+### 💻 Programming Languages
+Python, C, C++, Java, SQL  
 
-### Frontend Web Development
-<p>
-  [cite_start]<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> [cite: 16]
-  [cite_start]<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> [cite: 16]
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-</p>
+### ⚙️ Embedded Systems & Hardware
+Arduino, Sensors (Ultrasonic, TMP36, Flame), Motor Control (L293D, PWM), Circuit Design  
 
-### Hardware & IoT
-<p>
-  [cite_start]<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> [cite: 20]
-  [cite_start]<img src="https://img.shields.io/badge/Sensors_&_Motors-FCC624?style=for-the-badge&logo=nodedotjs&logoColor=black" /> [cite: 20]
-  [cite_start]<img src="https://img.shields.io/badge/Circuit_Design-CC2927?style=for-the-badge&logo=autodesk&logoColor=white" /> [cite: 20]
-</p>
+### 🌐 Software & Tools
+Git, GitHub, APIs, Object-Oriented Programming (OOP), Tinkercad  
 
-### Tools, Multimedia & Leadership
-<p>
-  [cite_start]<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> [cite: 19]
-  [cite_start]<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" /> [cite: 51]
-  [cite_start]<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /> [cite: 50]
-  [cite_start]<img src="https://img.shields.io/badge/HR_&_Recruitment-150458?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> [cite: 24]
-</p>
+### 🤝 Soft Skills
+Leadership, Public Speaking, Teamwork, Problem Solving, Event Management  
 
 ---
 
 ## 🚀 Featured Projects
 
-### [cite_start]🏋️ CoreX-Fitness: Web-Based Health & Gym Management [cite: 16]
-* [cite_start]**Overview:** A comprehensive web-based platform designed to manage gym operations and health tracking[cite: 16].
-* [cite_start]**Technologies:** Web Development stack[cite: 16, 19].
-
-### [cite_start]🏦 Bank Management System [cite: 16]
-* [cite_start]**Overview:** Developed an interactive banking system application focusing on robust core mechanics and user transactions[cite: 16].
-* [cite_start]**Technologies:** C++[cite: 16].
-
-### [cite_start]🚗 Bluetooth Car with Flame Sensor [cite: 16]
-* [cite_start]**Overview:** Designed and built a hardware prototype featuring motor control and fire detection mechanisms[cite: 16].
-* [cite_start]**Technologies:** Arduino IDE, C, Motor Drivers (L293D), Flame Sensor[cite: 16, 20].
-
-### [cite_start]🧩 Maze Generator and Solver [cite: 16]
-* [cite_start]**Overview:** Created an algorithm-driven project capable of generating complex mazes and solving them using a variety of algorithms[cite: 16].
-* [cite_start]**Technologies:** Java[cite: 16, 19].
-
-*(Note: Add specific links to your repositories here if available!)*
+### 🏋️ CoreX Fitness Web Application
+Developed a comprehensive web-based fitness management platform designed to streamline gym operations and enhance user experience. Built using a full-stack architecture, the system integrates a responsive frontend with a robust backend capable of handling real-time user data and authentication workflows. I implemented structured APIs and efficient database handling to ensure scalability and performance. The project was managed using Git and GitHub workflows, applying software engineering principles and iterative development practices to deliver a production-ready solution.
 
 ---
 
-## 💼 Experience & Leadership
-
-### [cite_start]👨‍🏫 Junior Teaching Assistant @ Nile University [cite: 34]
-- Supporting students in computer science courses and lab sessions.
-
-### 👥 Vice Head HR @ IEEE Nile University
-- [cite_start]Leading human resources initiatives, talent acquisition, and organizational development within the student branch[cite: 24, 29].
-
-### [cite_start]👨‍💼 Technical Human Resources Leader @ MLSA [cite: 16]
-- [cite_start]Managing technical HR processes for the Microsoft Learning Student Ambassadors program[cite: 16].
-
-### [cite_start]💻 Python Programming Intern @ CodeAlpha [cite: 16]
-- [cite_start]Gained hands-on software development experience focusing on Python-based applications[cite: 16].
-
-### [cite_start]🔬 Junior Research Assistant @ Nile University [cite: 16]
-- [cite_start]Collaborating on academic and technical research projects[cite: 16].
+### 🤖 Bluetooth Car with Flame Detection System (Arduino)
+Engineered an intelligent robotic car controlled via Bluetooth communication, integrating real-time hazard detection capabilities. The system utilizes a flame sensor to detect fire risks and automatically trigger safety responses, including stopping the vehicle and activating a buzzer alert system. Implemented motor control using the L293D driver with PWM for precise movement. This project demonstrates strong embedded systems integration and real-time control logic.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/MostafaAbdElhamied">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MostafaAbdElhamied&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MostafaAbdElhamied&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaAbdElhamied&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🧩 Maze Generator & Solver (Python + Pygame)
+Designed and implemented an interactive system capable of generating and solving mazes using advanced algorithms. Integrated Depth-First Search (DFS), Breadth-First Search (BFS), and Dijkstra’s Algorithm, with a dynamic visualization interface using Pygame. Focused on algorithm optimization, performance comparison, and user interaction, demonstrating strong problem-solving and computational thinking skills.
 
 ---
 
-## 🏆 Certifications & Awards
-
-- [cite_start]🎓 **AI Ambassador Program Graduate** – National Telecommunication Institute (NTI) [cite: 41]
-- [cite_start]📊 **Data Analysis with Python** – IBM Certification [cite: 40]
-- [cite_start]🤖 **AI for Beginners** – HP Foundation [cite: 36]
-- [cite_start]🌐 **Introduction to IoT and Digital Transformation** – Cisco [cite: 35]
-- [cite_start]🏅 **Certificate of Abbreviation** – Functional Project Prototype for Computer Systems Course [cite: 32]
-- [cite_start]🤝 **Certificate of Appreciation** – Outstanding Effort and Dedication with Enactus Egypt [cite: 38]
+### 📚 Library Management System (Java)
+Built a scalable library management system using Java with a focus on object-oriented design principles. Implemented features such as book inventory management, borrowing and returning workflows, and persistent storage through file handling. The system was structured using modular design and separation of concerns to ensure maintainability and extensibility.
 
 ---
 
-## 📬 Let's Connect
+### 🧠 Automata Theory Toolkit (Regex → DFA & CFG Parser)
+Developed tools for solving core problems in Theory of Computation, including a Regex-to-DFA converter and a Context-Free Grammar parser and simplifier. Applied formal algorithms to transform expressions into deterministic finite automata and optimize grammar structures, demonstrating strong understanding of formal languages and compiler design concepts.
+
+---
+
+### ⚡ Embedded Systems & Circuit Design Projects
+Designed multiple embedded systems integrating sensors and real-world applications, including voltage detection circuits, temperature monitoring systems (TMP36), and ultrasonic distance measurement (HC-SR04). Focused on sensor accuracy, signal processing, and efficient hardware-software interaction, alongside motor control systems using PWM techniques.
+
+---
+
+### 🧮 Data Structures & Algorithm Projects
+Implemented multiple algorithmic solutions involving graph theory, recursion, and optimization techniques, including Hamiltonian paths and shortest path algorithms. These projects strengthened my understanding of time complexity, efficiency, and scalable problem-solving approaches.
+
+---
+
+### 💻 Digital Logic & System Design Projects
+Worked on system-level designs including binary conversion systems (Binary to Gray Code and Excess-3) and processor-level concepts inspired by RISC-V architecture. Focused on understanding instruction execution, logic design, and low-level system behavior.
+
+---
+
+## 💼 Experience
+
+### 👨‍🏫 Junior Teaching Assistant – Nile University
+- Mentored students in programming and algorithm courses  
+- Assisted in debugging, problem-solving, and lab sessions  
+- Simplified complex technical concepts into practical understanding  
+
+---
+
+### 🌍 Leadership & Activities
+- Head of HR – IEEE Nile University  
+- HR Leader – Microsoft Learn Student Ambassadors  
+- Enactus Member  
+- Event Organizer (LCOY Egypt, NILES, E-Gnite)  
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🏅 Junior Teaching Assistant Certificate – Nile University  
+- 🏅 UGRF Participant  
+- 🏅 Data Analysis with Python – IBM  
+- 🏅 AI & IoT Certifications (Cisco, HP, NTI)  
+- 🏅 Robotics Course & Functional Project Award  
+
+---
+
+## 📬 Contact
+
+- 📧 mostafabazid65@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/mostafa-abd-elhamied-4a88782a6/  
+
+---
 
 <p align="center">
-  [cite_start]<a href="https://www.linkedin.com/in/mostafa-abd-elhamied-4a88782a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> [cite: 5]
-  [cite_start]<a href="mailto:mostafabazid65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> [cite: 4]
-  [cite_start]<a href="https://github.com/MostafaAbdElhamied"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> [cite: 6]
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  🚀 Always building, learning, and leveling up
 </p>
