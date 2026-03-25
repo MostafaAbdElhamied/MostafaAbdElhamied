@@ -41,7 +41,7 @@ Collaboration | Presentation | Creative Projects
 * **ITCS Representative Team** at Nile University
 * **Al Ambassador Program Graduate** with National Telecommunication Institute (NTI)
 * **Python Programming Internship** at CodeAlpha
-* **Vice Head of Human Resources** at IEEE Nile University
+* **Head of Human Resources** at IEEE Nile University
 * **Technical Human Resources Leader** at MLSA “Microsoft Learning Students Ambassadors”
 * **Human Resources Team Member** at Enactus Nile University
 * **Event Management Team Leader** with Local Conferences of Youth “LCOY Egypt”
