@@ -1,215 +1,171 @@
-<div align="center">
+# Mostafa Abd Elhamied Ismael
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Mostafa%20Abd%20Elhamied&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Engineer%20%7C%20Researcher&descAlignY=60&descColor=8b949e" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=CS+Undergrad+%40+Nile+University+%F0%9F%8E%93;Software+Dev+%7C+ML+%7C+Hardware+%F0%9F%94%A7;IEEE+%7C+MLSA+%7C+Research+Assistant+%F0%9F%94%AC;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-abd-elhamied-4a88782a6)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MostafaAbdElhamied)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafabazid65@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Giza,_Egypt-20232A?style=for-the-badge)](https://maps.google.com/?q=Giza,Egypt)
-
-</div>
+📍 El Haram, Giza, Egypt
+📧 mostafabazid65@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/mostafa-abd-elhamied-4a88782a6) · [GitHub](https://github.com/MostafaAbdElhamied)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-```python
-class Mostafa:
-    def __init__(self):
-        self.name        = "Mostafa Abd Elhamied Ismael"
-        self.university  = "Nile University — B.Sc. Computer Science (2023–2027)"
-        self.roles       = ["Junior Teaching Assistant", "Junior Research Assistant",
-                            "Head of HR @ IEEE NU", "Technical HR Lead @ MLSA NU"]
-        self.interests   = ["Software Engineering", "Machine Learning", "Embedded Systems",
-                            "Big Data", "Operating Systems", "Graph Theory"]
-        self.languages   = {"Arabic": "Native", "English": "Professional"}
-        self.available   = True  # Open to internships & collaborations
-
-    def __str__(self):
-        return "Detail-oriented builder who ships full-cycle engineering projects."
-```
-
-> Detail-oriented CS undergraduate with hands-on experience in **software development**, **hardware prototyping**, **data analysis**, and **technical leadership**. Active contributor to IEEE, MLSA, and Enactus — bridging technical depth with organizational impact.
+CS undergraduate at Nile University (2027) building full-cycle projects across software, hardware, data, and systems. Currently a Junior Teaching Assistant and Research Assistant, while leading HR at IEEE NU Student Branch.
 
 ---
 
-## 🛠️ Tech Stack
+## Education
 
-<div align="center">
+**B.Sc. Computer Science** — Nile University, Egypt · *2023 – 2027*
+Data Structures · Algorithms · OOP · Software Engineering · Computer Architecture · Theory of Computing · Data Analysis · Project Management · Logic Design
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Web & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Machine Learning & Data
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-
-### Hardware & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Tinkercad](https://img.shields.io/badge/Tinkercad-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
-
-### Design
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-
-</div>
+**A-Levels** — Mathematics, Physics, Biology, Chemistry, Computer
+Dar Elhanan Language Schools, Giza · *2018 – 2023*
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🖥️ xv6 File System Extension</h3>
-      <p><strong>C · xv6-RISC-V · QEMU</strong></p>
-      <p>Extended the xv6 RISC-V OS with a full <strong>snapshot & restore subsystem</strong> — 6 user-space commands including point-in-time directory capture, change detection, rollback, and hierarchical tree visualization on a QEMU-emulated RISC-V VM.</p>
-      <img src="https://img.shields.io/badge/Operating_Systems-2024-58a6ff?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3>⚽ European Football ML Predictor</h3>
-      <p><strong>Python · Scikit-learn · XGBoost · SMOTE</strong></p>
-      <p>Multi-class classification pipeline predicting Win/Draw/Loss across 5 major European leagues using <strong>68+ engineered rolling features</strong> with temporal shift to prevent data leakage.</p>
-      <img src="https://img.shields.io/badge/Machine_Learning-2026-f0883e?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔒 Big Data Intrusion Detection System</h3>
-      <p><strong>Apache Spark · PySpark · MLlib · Docker</strong></p>
-      <p>Scalable IDS pipeline processing <strong>3.8 GB / 952,063 network packets</strong> combining Z-score statistical detection with unsupervised K-Means clustering via Spark MLlib.</p>
-      <img src="https://img.shields.io/badge/Big_Data_%7C_Cybersecurity-2026-a5d6ff?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3>⚙️ RISC-V 5-Stage Pipelined Processor</h3>
-      <p><strong>Hardware Description Language · Computer Architecture</strong></p>
-      <p>Fully functional <strong>5-stage pipeline RISC-V processor</strong> (IF, ID, EX, MEM, WB) with hazard detection and forwarding logic from scratch.</p>
-      <img src="https://img.shields.io/badge/Computer_Architecture-2025-bc8cff?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌐 CoreX-Fitness Web App</h3>
-      <p><strong>HTML · CSS · JavaScript</strong></p>
-      <p>Full-featured gym & health management web application covering member registration, workout scheduling, and fitness tracking dashboards.</p>
-      <img src="https://img.shields.io/badge/Web_Dev-2025-3fb950?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3>🤖 Autonomous Maze-Solving Robot</h3>
-      <p><strong>Arduino · HC-SR04 Ultrasonic Sensors</strong></p>
-      <p>Autonomous maze-solving robot using ultrasonic sensors for real-time distance detection and path-planning algorithms embedded in hardware.</p>
-      <img src="https://img.shields.io/badge/Embedded_Systems-2024-ffa657?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔤 Regex → DFA Converter</h3>
-      <p><strong>Python · Theory of Computing</strong></p>
-      <p>Tool converting regular expressions to deterministic finite automata with full <strong>state transition visualization</strong>.</p>
-      <img src="https://img.shields.io/badge/Theory_of_Computing-2025-58a6ff?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3>🗺️ Maze Generator & Solver</h3>
-      <p><strong>Python · BFS · DFS · A*</strong></p>
-      <p>Multi-algorithm maze generation and solving with step-by-step visual output and performance benchmarking across BFS, DFS, and A*.</p>
-      <img src="https://img.shields.io/badge/Algorithms-2025-3fb950?style=flat-square"/>
-    </td>
-  </tr>
-</table>
+**Languages:** Python · C · C++ · Java · SQL
+**Web:** HTML · CSS · REST APIs
+**Tools:** Git · OOP · Tinkercad
+**Hardware:** Arduino IDE · Circuit Design · Sensors · Motor Control · Breadboard Prototyping
+**Data & ML:** Pandas · NumPy · Scikit-learn · XGBoost · Apache Spark · PySpark · MLlib
+**Design:** Adobe Photoshop · Adobe Premiere Pro
 
 ---
 
-## 💼 Experience
+## Projects
 
-```
-📌 Head of Human Resources       │ IEEE Nile University Student Branch   │ 2024 – Present
-📌 Junior Teaching Assistant     │ Nile University                       │ 2024 – Present
-📌 Junior Research Assistant     │ Nile University (UGRF Presenter)      │ 2024 – Present
-📌 Technical HR Leader           │ MLSA – Microsoft Learning @ NU        │ 2024
-📌 Event Management Team Leader  │ LCOY Egypt                            │ 2024 – 2025
-📌 Python Programming Intern     │ CodeAlpha                             │ 2024
-📌 HR Team Member                │ Enactus Nile University               │ 2023 – 2024
-📌 ITCS Student Representative   │ Nile University                       │ 2023 – 2024
-```
+**xv6 File System Extension** *(May 2026)* · C · xv6-RISC-V · QEMU
+Extended the xv6 OS with a snapshot & restore subsystem — 6 user-space commands for point-in-time capture, change detection, and rollback on a QEMU RISC-V VM.
+
+**European Football Match Outcome Prediction** *(May 2026)* · Python · XGBoost · SMOTE
+ML pipeline predicting Win/Draw/Loss across 5 European leagues using 68+ engineered rolling features with temporal shift to prevent data leakage.
+
+**Big Data Intrusion Detection System** *(May 2026)* · Apache Spark · PySpark · Docker
+Scalable IDS processing 3.8 GB / 952,063 network packets using Z-score detection and K-Means clustering via Spark MLlib.
+
+**RISC-V 5-Stage Pipelined Processor** *(Dec 2025)* · HDL · Computer Architecture
+Fully functional 5-stage pipeline processor (IF, ID, EX, MEM, WB) with hazard detection and forwarding logic, built from scratch.
+
+**CFG Parser & Simplifier** *(Dec 2025)* · Python · Theory of Computing
+Parses and simplifies context-free grammars with CNF transformation and CYK parsing algorithm support.
+
+**Regex to DFA Converter** *(Nov 2025)* · Python · Theory of Computing
+Converts regular expressions to deterministic finite automata with full state transition visualization.
+
+**CoreX-Fitness Web App** *(Oct 2025)* · HTML · CSS · JavaScript
+Gym management web app with member registration, workout scheduling, and fitness tracking dashboards.
+
+**Enterprise Project Scheduling Tool** *(Dec 2025)* · CPM · PERT
+Task-management system applying Critical Path Method and PERT for enterprise-level project planning.
+
+**Udemy Data Analytics & Prediction** *(Dec 2025)* · Python · Scikit-learn · Matplotlib
+End-to-end exploratory data analysis and predictive ML models built on a real-world dataset.
+
+**Maze Generator and Solver** *(Jun 2025)* · Python · BFS · DFS · A*
+Maze generation and solving with step-by-step visual output and performance comparison across three algorithms.
+
+**Library Management System** *(Jun 2025)* · Java · OOP
+Full library system with book cataloging, member management, and borrowing/return workflows.
+
+**Mixed Binary Converter** *(Jun 2025)* · Logic Design · Digital Circuits
+Combinational logic circuit converting binary to Gray Code and Excess-3 encoding.
+
+**Hamilton Paths and Circuits** *(Dec 2024)* · C++ · Graph Theory · Backtracking
+Detects Hamiltonian paths and circuits in undirected graphs using recursive backtracking and adjacency matrix representation.
+
+**University Management System** *(Dec 2024)* · C++ · OOP
+Console system managing students, courses, faculty, enrollment, and grade records.
+
+**Voltage Detection Circuit** *(Dec 2024)* · Arduino · Electronics
+Hardware circuit for voltage-level detection and automated switching between dual battery sources.
+
+**Bluetooth Car with Flame Sensor** *(Aug 2024)* · Arduino · C · Embedded Systems
+Bluetooth-controlled robotic car with flame detection and emergency stop logic via L293D motor driver.
+
+**Autonomous Maze-Solving Robot** *(May 2024)* · Arduino · HC-SR04 Sensors
+Robot using ultrasonic sensors for real-time distance detection and autonomous path-planning.
+
+**Bank Management System** *(Jan 2024)* · C++ · OOP
+Console banking system with account creation, deposits, withdrawals, transfers, and transaction history.
+
+**Arcade Games Collection** *(Dec 2023)* · Python · OOP
+Suite of classic arcade games using OOP design patterns, game loops, and event-driven programming.
+
+**Simple Supermarket Database** *(Oct 2023)* · SQL · Database Design
+Relational database covering inventory, transactions, and product management for a supermarket system.
 
 ---
 
-## 🎓 Certifications
+## Experience
 
-| Certificate | Issuer |
-|-------------|--------|
-| 🏆 Data Analysis with Python | IBM |
-| 🤖 AI Ambassadors Program Graduate | National Telecommunication Institute (NTI) |
-| 🌐 Introduction to IoT & Digital Transformation | Cisco |
-| 💡 AI for Beginners | HP Foundation |
-| 🤖 30-Hour Robotics Course | Nile University |
-| 🏅 Junior Teaching Assistant Certificate | Nile University |
-| 🏅 Certificate of Achievement – Fall 2025 | Nile University |
-| ❤️ Certificate of Appreciation – Outstanding Effort | Enactus Egypt |
-| 🏅 Appreciation Certificate | NILES 2025 |
-| 🎪 E-Gnite Event Organizer Certificate | E-Gnite NU |
-| 📄 21st Undergraduate Research Forum (UGRF) | Nile University |
+**Head of Human Resources** · IEEE Nile University Student Branch · *2024 – Present*
+Leads recruitment, onboarding, and member development for the IEEE student branch, and coordinates between technical and non-technical sub-committees.
 
----
+**Junior Teaching Assistant** · Nile University · *2024 – Present*
+Supports faculty in lab sessions and assessments, and helps students with debugging, project reviews, and concept clarification. *Awarded JTA Certificate.*
 
-## 📊 GitHub Stats
+**Junior Research Assistant** · Nile University · *2024 – Present*
+Contributes to CS department research and presented findings at the 21st Undergraduate Research Forum (UGRF).
 
-<div align="center">
+**Technical HR Leader** · MLSA – Microsoft Learning Student Ambassadors, NU · *2024*
+Managed technical recruitment and coordinated hackathons and workshops for the Microsoft ambassador program.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MostafaAbdElhamied&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+**Event Management Team Leader** · LCOY Egypt · *2024 – 2025*
+Led logistics, volunteers, and on-site execution for large-scale youth climate conferences.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAbdElhamied&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+**Event Coordination Member** · NILES & SMART 2025 · *2025*
+Coordinated logistics and participant management for two international student conferences. *Honored with Appreciation Certificate at NILES 2025.*
 
-</div>
+**Python Programming Intern** · CodeAlpha · *2024*
+Built Python projects strengthening OOP, scripting, and problem-solving skills through structured assignments.
 
-<div align="center">
+**HR Team Member** · Enactus Nile University · *2023 – 2024*
+Supported recruitment and onboarding for one of Egypt's leading entrepreneurship student teams. *Certificate of Appreciation — Enactus Egypt.*
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MostafaAbdElhamied&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa657&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+**ITCS Student Representative** · Nile University · *2023 – 2024*
+Represented CS students in university committees, relaying feedback and advocating for academic improvements.
 
-</div>
+**Event Organization Member** · E-Gnite · *2024*
+Helped plan and execute E-Gnite, a large-scale student event at Nile University. *E-Gnite Organizer Certificate.*
 
----
+**Multimedia & Technical Support** · Climatic Peace Foundation · *2024*
+Provided AV setup and technical troubleshooting during foundation events.
 
-## 🌍 Beyond the Code
+**AI Ambassador Graduate** · National Telecommunication Institute (NTI) · *2024 – 2025*
+Completed the NTI AI Ambassadors Program covering AI fundamentals and real-world applications.
 
-- 🎙️ **Public speaker** at Enactus NU events and student conferences
-- ⚽ Team sports enthusiast (football)
-- 🎨 Content creator — Photoshop & Premiere Pro
-- 🤝 Volunteer at **Lebaladna Charity & Development Foundation**, Giza
-- 🌱 Active IEEE and Enactus member bridging tech with community impact
+**Volunteer** · Lebaladna Charity & Development Foundation · *2023 – Present*
+Participates in community development and charity drives across Giza.
 
 ---
 
-<div align="center">
+## Certifications & Awards
 
-### 💬 Let's Connect
+- Data Analysis with Python — IBM
+- AI Ambassadors Program Graduate — NTI
+- Introduction to IoT and Digital Transformation — Cisco
+- AI for Beginners — HP Foundation
+- 30-Hour Robotics Course — Nile University
+- Junior Teaching Assistant Certificate — Nile University
+- Certificate of Achievement, Fall 2025 — Nile University
+- Certificate of Appreciation for Outstanding Effort — Enactus Egypt
+- Appreciation Certificate — NILES 2025
+- E-Gnite Event Organizer Certificate
+- Certificate of Participation — 21st UGRF
+- Certificate of Completion — English Summer Course
 
-*"Building things that matter — one commit at a time."*
+---
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-abd-elhamied-4a88782a6)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafabazid65@gmail.com)
+## Languages
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0d1117&height=120&section=footer" />
+Arabic — Native · English — Professional
 
-</div>
+---
+
+## References
+
+Available upon request.
+- Eng. Abdelrahman M. Mahran · abmahran@nu.edu.eg
+- Eng. Yomna Eid Mohammad · yeid@nu.edu.eg
+- Eng. Malak Magdy Abdelsattar · maabdelsattar@nu.edu.eg
