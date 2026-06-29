@@ -1,7 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Mostafa Abd Elhamied</h1>
-<h3 align="center">Aspiring Computer Science | Junior Developer | Tech & Community Enthusiast</h3>
+# 👋 Mostafa Abd Elhamied Ismael
+
 📍 El Haram, Giza, Egypt · 📧 mostafabazid65@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/mostafa-abd-elhamied-4a88782a6) · 🐙 [GitHub](https://github.com/MostafaAbdElhamied)
+
+[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-abd-elhamied-4a88782a6) &nbsp; [![GitHub](https://img.shields.io/badge/-%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MostafaAbdElhamied) &nbsp; [![Email](https://img.shields.io/badge/-%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mostafabazid65@gmail.com)
 
 ---
 
@@ -163,20 +164,21 @@ CS undergraduate at Nile University (2027) building full-cycle projects across s
 
 ## 🏅 Certifications & Awards
 
-| Certificate | Issuer |
+| 🏅 Certificate | 🏫 Issuer |
 |---|---|
-| 📊 Data Analysis with Python | IBM |
-| 🤖 AI Ambassadors Program Graduate | National Telecommunication Institute (NTI) |
-| 🌐 Introduction to IoT & Digital Transformation | Cisco |
-| 💡 AI for Beginners | HP Foundation |
-| 🤖 30-Hour Robotics Course | Nile University |
-| 🏫 Junior Teaching Assistant Certificate | Nile University |
-| 🏆 Certificate of Achievement, Fall 2025 | Nile University |
-| ❤️ Certificate of Appreciation — Outstanding Effort | Enactus Egypt |
+| 🏅 Data Analysis with Python | IBM |
+| 🏅 AI Ambassadors Program Graduate | National Telecommunication Institute (NTI) |
+| 🏅 Introduction to IoT & Digital Transformation | Cisco |
+| 🏅 AI for Beginners | HP Foundation |
+| 🏅 30-Hour Robotics Course Completion | Nile University |
+| 🏅 Certificate of Abbreviation — Functional Project Prototype | Computer Systems Course |
+| 🏅 Junior Teaching Assistant Certificate | Nile University |
+| 🏅 Certificate of Achievement, Fall Semester 2025 | Nile University |
+| 🏅 Certificate of Appreciation for Outstanding Effort & Dedication | Enactus Egypt |
 | 🏅 Appreciation Certificate | NILES 2025 |
-| 🎪 E-Gnite Event Organizer Certificate | E-Gnite NU |
-| 📄 Certificate of Participation — 21st UGRF | Nile University |
-| 🌍 Certificate of Completion — English Summer Course | — |
+| 🏅 E-Gnite Event Organizer Certificate of Achievement | E-Gnite NU |
+| 🏅 Certificate of Participation — 21st Undergraduate Research Forum (UGRF) | Nile University |
+| 🏅 Certificate of Completion — English Summer Course | — |
 
 ---
 
