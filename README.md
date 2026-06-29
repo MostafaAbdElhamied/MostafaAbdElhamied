@@ -1,4 +1,5 @@
-# 👋 Mostafa Abd Elhamied Ismael
+<h1 align="center">Hi there 👋, I'm Mostafa Abd Elhamied</h1>
+<h3 align="center">Aspiring Computer Science | Junior Developer | Tech & Community Enthusiast</h3>
 
 📍 El Haram, Giza, Egypt · 📧 mostafabazid65@gmail.com
 
