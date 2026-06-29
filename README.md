@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Mostafa Abd Elhamied</h1>
 <h3 align="center">Aspiring Computer Science | Junior Developer | Tech & Community Enthusiast</h3>
+
 📍 El Haram, Giza, Egypt 
+
 
 [![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-abd-elhamied-4a88782a6) &nbsp; [![GitHub](https://img.shields.io/badge/-%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MostafaAbdElhamied) &nbsp; [![Email](https://img.shields.io/badge/-%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mostafabazid65@gmail.com)
 
