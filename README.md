@@ -187,11 +187,3 @@ CS undergraduate at Nile University (2027) building full-cycle projects across s
 🗣️ Arabic — Native · 🗣️ English — Professional
 
 ---
-
-## 📬 References
-
-Available upon request.
-
-- Eng. Abdelrahman M. Mahran · abmahran@nu.edu.eg
-- Eng. Yomna Eid Mohammad · yeid@nu.edu.eg
-- Eng. Malak Magdy Abdelsattar · maabdelsattar@nu.edu.eg
