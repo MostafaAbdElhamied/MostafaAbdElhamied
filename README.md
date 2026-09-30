@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-CS undergraduate at Nile University (2027) building full-cycle projects across software, hardware, data, and systems. Currently a Junior Teaching Assistant and Research Assistant, while serving as Vice Head of HR at the IEEE NU Student Branch.
+CS undergraduate at Nile University (2027) building full-cycle projects across software, hardware, data, and systems. Currently a Junior Teaching Assistant and Research Assistant, while serving as Head of HR at the IEEE NU Student Branch.
 
 ---
 
