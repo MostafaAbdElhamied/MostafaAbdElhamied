@@ -189,6 +189,7 @@ CS undergraduate at Nile University (2027) building full-cycle projects across s
 | 🏅 E-Gnite Event Organizer Certificate of Achievement | E-Gnite NU |
 | 🏅 Certificate of Participation — 21st Undergraduate Research Forum (UGRF) | Nile University |
 | 🏅 Applied Data Science with Python Specialization – University of Michigan (via Coursera) | University of Michigan | 
+| 🏅 Certificate of Completion — English Summer Course | — | 
 
 ---
 
